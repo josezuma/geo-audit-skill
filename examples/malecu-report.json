@@ -1,0 +1,35 @@
+{
+  "url": "https://www.malecu.eu/automate-your-business-with-ai",
+  "checks": {
+    "llms_txt": {
+      "score": 25,
+      "findings": [
+        "\u2705 /llms.txt found (1359 chars)",
+        "\u2705 /llms-full.txt found (4345 chars)"
+      ]
+    },
+    "robots_txt": {
+      "score": 12,
+      "findings": [
+        "\u2705 5 AI crawlers explicitly configured: GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Anthropic-AI",
+        "\u26a0\ufe0f Some crawlers blocked: *"
+      ]
+    },
+    "json_ld_schema": {
+      "score": 25,
+      "findings": [
+        "\u2705 4 schema(s) found: , Article, FAQPage, ItemPage"
+      ]
+    },
+    "citability": {
+      "score": 16,
+      "findings": [
+        "\u2705 Author found: Malecu",
+        "\u26a0\ufe0f No publish date detected",
+        "\u2705 12 statistics/quotes found (strong citability)"
+      ]
+    }
+  },
+  "total_score": 78,
+  "max_score": 100
+}

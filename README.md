@@ -5,7 +5,8 @@
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
     <a href="https://github.com/josezuma/geo-audit-skill"><img src="https://img.shields.io/github/stars/josezuma/geo-audit-skill?style=social" alt="Stars"></a>
   </p>
-  <p>by <a href="https://brandvirality.com">BrandVirality</a> — The open-source tool for AI visibility audits.</p>
+  <p>by <a href="https://brandvirality.com">BrandVirality</a> — The open-source tool for AI visibility audits.<br>
+  <strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
 </div>
 
 ---

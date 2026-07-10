@@ -1,0 +1,34 @@
+{
+  "url": "https://brandvirality.com",
+  "checks": {
+    "llms_txt": {
+      "score": 0,
+      "findings": [
+        "\u274c /llms.txt not found (HTTP 404)",
+        "\u274c /llms-full.txt not found (HTTP 404)"
+      ]
+    },
+    "robots_txt": {
+      "score": 12,
+      "findings": [
+        "\u26a0\ufe0f No AI crawler rules found \u2014 models may crawl without explicit permission"
+      ]
+    },
+    "json_ld_schema": {
+      "score": 25,
+      "findings": [
+        "\u2705 3 schema(s) found: FAQPage, ItemList, Organization"
+      ]
+    },
+    "citability": {
+      "score": 8,
+      "findings": [
+        "\u274c No author byline found",
+        "\u26a0\ufe0f No publish date detected",
+        "\u2705 22 statistics/quotes found (strong citability)"
+      ]
+    }
+  },
+  "total_score": 45,
+  "max_score": 100
+}

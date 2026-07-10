@@ -1,0 +1,34 @@
+{
+  "url": "https://stripe.com",
+  "checks": {
+    "llms_txt": {
+      "score": 25,
+      "findings": [
+        "\u2705 /llms.txt found (63917 chars)",
+        "\u274c /llms-full.txt not found (HTTP 404)"
+      ]
+    },
+    "robots_txt": {
+      "score": 12,
+      "findings": [
+        "\u26a0\ufe0f No AI crawler rules found \u2014 models may crawl without explicit permission"
+      ]
+    },
+    "json_ld_schema": {
+      "score": 25,
+      "findings": [
+        "\u2705 1 schema(s) found: "
+      ]
+    },
+    "citability": {
+      "score": 16,
+      "findings": [
+        "\u2705 Author found: Stripe Connect",
+        "\u26a0\ufe0f No publish date detected",
+        "\u2705 25 statistics/quotes found (strong citability)"
+      ]
+    }
+  },
+  "total_score": 78,
+  "max_score": 100
+}

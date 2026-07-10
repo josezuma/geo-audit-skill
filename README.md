@@ -98,7 +98,7 @@ The audit references these authoritative sources:
 - [awesome-ai-visibility](https://github.com/josezuma/awesome-ai-visibility) — Curated list of AI visibility resources
 - [ai-crawlers](https://github.com/josezuma/ai-crawlers) — Machine-readable AI crawler dataset
 - [schema-for-ai](https://github.com/josezuma/schema-for-ai) — Annotated JSON-LD templates for AI search
-- [BrandVirality](https://brandvirality.com) — AI Visibility Agency
+- [BrandVirality](https://brandvirality.com) — SaaS for AI visibility
 
 ## License
 

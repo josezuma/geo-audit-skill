@@ -1,7 +1,10 @@
 # FAQ
 
-## What score is good?
-80+ is excellent, 60-79 is good, below 60 needs work.
+## What is geo-audit-skill?
+Geo Audit Skill
 
-## Does the audit check images?
-No — only HTML content, schema, and robots.txt.
+## Dependencies?
+Python stdlib only.
+
+## Author
+Jose Zuma
